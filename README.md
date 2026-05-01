@@ -34,14 +34,23 @@
 
   
 📂 Project Structure :-
+
           SCT_WD_1/
+          
           │
+          
           ├── index.html
+          
           ├── style.css
+          
           ├── script.js
+          
           └── fitzonepropage1.png
+          
           |___fitzonepropage2.png
+          
           |___fitzonepropage3.png
+          
           
 
   🎯 About Project :-
