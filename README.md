@@ -14,7 +14,7 @@
    CSS3
    JavaScript (Vanilla JS)
 🌐 Live Project
-  👉 GitHub Pages Link: https://nitish-kumar-62.github.io/SCT_WD_1/
+  👉 GitHub Pages Link: https://github.com/Nitish-Kumar-62/SCT_WD_1
 📂 Project Structure 
           SCT_WD_1/
           │
