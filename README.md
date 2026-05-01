@@ -21,6 +21,7 @@
       🔘 Interactive "Get Started" button
   
 🛠️ Technologies Used :
+
        HTML5
        
        CSS3
@@ -28,6 +29,7 @@
        JavaScript (Vanilla JS)
    
 🌐 Live Project :
+
       👉 GitHub Pages Link:- https://github.com/Nitish-Kumar-62/SCT_WD_1
 
   
@@ -43,4 +45,5 @@
           
 
   🎯 About Project :-
+  
        This project is a responsive single-page fitness website designed to practice frontend development skills. It includes modern UI components, interactive navigation, and responsive design techniques.
