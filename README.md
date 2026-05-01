@@ -2,31 +2,33 @@
 
 📌 Project Title :- 
 
-     FitZone Pro- Responsive Gym & Fitness Landing Page
+       FitZone Pro- Responsive Gym & Fitness Landing Page
     
 🚀 Features : 
 
-  📌 Fixed responsive navigation bar
+      📌 Fixed responsive navigation bar
   
-  🎨 Scroll-based active menu highlight
+      🎨 Scroll-based active menu highlight
   
-  🖱️ Hover effects on menu items
+      🖱️ Hover effects on menu items
   
-  📱 Fully responsive (mobile + desktop)
+      📱 Fully responsive (mobile + desktop)
   
-  ⚡ Smooth scrolling between sections
+      ⚡ Smooth scrolling between sections
   
-  🏋️ Services & Products section with cards
+      🏋️ Services & Products section with cards
   
-  🔘 Interactive "Get Started" button
+      🔘 Interactive "Get Started" button
   
 🛠️ Technologies Used :
-   HTML5
-   CSS3
-   JavaScript (Vanilla JS)
+       HTML5
+       
+       CSS3
+       
+       JavaScript (Vanilla JS)
    
 🌐 Live Project :
-  👉 GitHub Pages Link:- https://github.com/Nitish-Kumar-62/SCT_WD_1
+      👉 GitHub Pages Link:- https://github.com/Nitish-Kumar-62/SCT_WD_1
 
   
 📂 Project Structure :-
