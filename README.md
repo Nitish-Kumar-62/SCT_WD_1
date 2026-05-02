@@ -2,7 +2,7 @@
 
 #📌 Project Title :- 
 
-       FitZone Pro- Responsive Gym & Fitness Landing Page
+      # FitZone Pro- Responsive Gym & Fitness Landing Page
     
  #🚀 Features : 
 
