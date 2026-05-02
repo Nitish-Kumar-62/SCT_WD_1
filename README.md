@@ -39,6 +39,12 @@ FitZone Pro- Responsive Gym & Fitness Landing Page
       |___fitzonepropage2.png
       
       |___fitzonepropage3.png
-  # 🎯 About Project
-     This project is a responsive single-page fitness website designed to practice frontend development skills. It includes modern UI components, interactive navigation, and responsive design techniques.
+  # 👨‍💻 Author
+   Nitish Kumar
+   Web Development Intern – SkillCraft Technology
+
+  📧 Email: nitish62ni@gmail.com / nitish62rana@gmail.com
+  🔗 GitHub: https:https://github.com/Nitish-Kumar-62/SCT_WD_1
+  🌐 Live Project:https://nitish-kumar-62.github.io/SCT_WD_1/
+  💼 LinkedIn; https://www.linkedin.com/in/nitish-kumar-0201n2005/ 
 
