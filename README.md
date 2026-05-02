@@ -3,6 +3,7 @@
 FitZone Pro- Responsive Gym & Fitness Landing Page
 # 📌 Project Overview
 Fitzone Pro is a fully responsive single-page website developed for the SkillCraft Technology Internship Task 1 (SCT_WD_1).
+
 This project features an interactive fixed navigation menu that dynamically changes style on scroll and hover, designed for a modern fitness and gym products brand, delivering a clean, user-friendly, and engaging web experience.
 # 🚀 Features
 📌 Fixed responsive navigation bar
