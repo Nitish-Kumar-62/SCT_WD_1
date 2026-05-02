@@ -17,7 +17,9 @@ FitZone Pro- Responsive Gym & Fitness Landing Page
   🔘 Interactive "Get Started" button
   # 🛠️ Technologies Used
   HTML5
+  
   CSS3
+  
   JavaScript (Vanilla JS)
   # 🌐 Live Project
   👉 GitHub Pages Link:https://github.com/Nitish-Kumar-62/SCT_WD_1
