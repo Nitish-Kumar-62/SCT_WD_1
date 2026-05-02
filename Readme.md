@@ -24,13 +24,20 @@ FitZone Pro- Responsive Gym & Fitness Landing Page
   # 🌐 Live Project
   👉 GitHub Pages Link:https://github.com/Nitish-Kumar-62/SCT_WD_1
   # 📂 Project Structure
-  SCT_WD_1/
-          │
-          ├── index.html
-          ├── style.css
-          ├── script.js
-          └── fitzonepropage1.png
-          |___fitzonepropage2.png
-          |___fitzonepropage3.png
+        SCT_WD_1/
+      
+      │
+      
+      ├── index.html
+      
+      ├── style.css
+      
+      ├── script.js
+      
+      └── fitzonepropage1.png
+      
+      |___fitzonepropage2.png
+      
+      |___fitzonepropage3.png
   # 🎯 About Project
      This project is a responsive single-page fitness website designed to practice frontend development skills. It includes modern UI components, interactive navigation, and responsive design techniques.
